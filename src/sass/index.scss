@@ -1,0 +1,21 @@
+@import '../sass/fonts.scss';
+@import '../sass/variables.scss';
+@import '../sass/header.scss';
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+  list-style: none;
+}
+html {
+  font-family: 'Raleway', sans-serif;
+}
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  z-index: 2;
+  position: relative;
+  margin: auto;
+}

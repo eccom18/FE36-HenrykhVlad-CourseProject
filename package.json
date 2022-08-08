@@ -1,0 +1,30 @@
+{
+  "name": "fe36-henrykhvlad-courseproject",
+  "version": "1.0.0",
+  "description": "Landing ActiveBox",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eccom18/FE36-HenrykhVlad-CourseProject.git"
+  },
+  "author": "HenrykhVlad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eccom18/FE36-HenrykhVlad-CourseProject/issues"
+  },
+  "homepage": "https://github.com/eccom18/FE36-HenrykhVlad-CourseProject#readme",
+  "dependencies": {
+    "concat": "^1.0.3",
+    "sass": "^1.54.3",
+    "server": "^1.0.37"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
+    "parcel": "^2.7.0"
+  }
+}
