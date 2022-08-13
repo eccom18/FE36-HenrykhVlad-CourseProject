@@ -1,0 +1,10 @@
+@mixin initials {
+  display: block;
+  font-family: 'Raleway', sans-serif;
+  font-size: $_18px;
+  line-height: 21px;
+  font-weight: 400;
+  color: $_red;
+  text-transform: uppercase;
+  margin: 5px 0 18px;
+}

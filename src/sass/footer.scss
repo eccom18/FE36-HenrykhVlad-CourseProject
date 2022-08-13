@@ -1,0 +1,23 @@
+#footer {
+  width: 100%;
+  padding: 24px 0;
+  background-color: rgba(44, 49, 84, 1);
+}
+.footer_description {
+  max-width: 370px;
+  margin: auto;
+  P {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: $_18px;
+    text-align: center;
+    color: $_grey;
+    text-transform: capitalize;
+    &::after {
+      content: 'by Kamal Chaneman';
+      display: inline-block;
+      color: $_white;
+      margin-left: 5px;
+    }
+  }
+}

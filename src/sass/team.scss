@@ -1,0 +1,101 @@
+#teams_section {
+  width: 100%;
+  padding: 57px 0;
+}
+.teams_wrap {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 -15px;
+  flex-wrap: wrap;
+}
+.team_card {
+  width: 255px;
+  margin: 0 15px;
+  &-img {
+    width: 255px;
+    height: 255px;
+    margin-bottom: 30px;
+    img {
+      width: 100%;
+      height: 100%;
+      object-position: center;
+      object-fit: cover;
+    }
+  }
+  &-initials {
+    font-family: 'Raleway', sans-serif;
+    font-size: $_24px;
+    font-weight: 700;
+    color: $_black;
+    &--founder::after {
+      content: 'founder, ceo';
+      @include initials;
+    }
+    &--developer::after {
+      content: 'co-founder, developer';
+      @include initials;
+    }
+    &--scientist::after {
+      content: 'data scientist';
+      @include initials;
+    }
+    &--designer::after {
+      content: 'ui designer';
+      @include initials;
+    }
+  }
+  &-description {
+    margin-bottom: 38px;
+    p {
+      font-family: 'Raleway', sans-serif;
+      font-weight: 400;
+      font-size: $_18px;
+      color: $_grey;
+    }
+  }
+}
+.team_navigation-list {
+  display: flex;
+  &--item a {
+    width: 39px;
+    line-height: 39px;
+    border: 1px $_grey solid;
+    margin-right: 5px;
+    text-align: center;
+    color: $_grey;
+    transition: 0.2s;
+  }
+}
+.team_facebook {
+  &:hover {
+    transition: 0.2s;
+    transform: scale(1.2);
+    color: #3b5998;
+    box-shadow: 0 0 10px 0 $_grey;
+  }
+  &:active {
+    background-color: $_grey;
+  }
+}
+.team_twitter {
+  &:hover {
+    transition: 0.2s;
+    transform: scale(1.2);
+    color: #00acee;
+    box-shadow: 0 0 10px 0 $_grey;
+  }
+  &:active {
+    background-color: $_grey;
+  }
+}
+.team_linkedin {
+  &:hover {
+    transition: 0.2s;
+    transform: scale(1.2);
+    color: #0a66c2;
+    box-shadow: 0 0 10px 0 $_grey;
+  }
+  &:active {
+    background-color: $_grey;
+  }
+}

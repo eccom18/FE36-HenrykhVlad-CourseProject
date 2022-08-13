@@ -1,0 +1,43 @@
+#dowload_section {
+  width: 100%;
+  padding: 114px 0;
+}
+.dowload_title {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+  font-size: $_30px;
+  text-align: center;
+  color: $_black;
+  margin-bottom: 5px;
+}
+.dowload_description {
+  margin-bottom: 50px;
+  p {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: $_18px;
+    text-align: center;
+    color: $_black;
+  }
+}
+.dowload_link {
+  display: block;
+  width: 369px;
+  line-height: 78px;
+  background-color: $_pink;
+  text-transform: uppercase;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 900;
+  font-size: $_24px;
+  text-align: center;
+  color: $_white;
+  margin: auto;
+  &:hover {
+    transition: 0.2s;
+    background-color: $_red;
+  }
+  &:active {
+    background-color: $_pink;
+    box-shadow: 4px 4px 30px 0 $_pink;
+  }
+}

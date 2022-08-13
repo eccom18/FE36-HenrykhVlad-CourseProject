@@ -1,0 +1,87 @@
+#contacts_section {
+  width: 100%;
+  padding: 71px 0;
+  background-color: rgba(53, 60, 101, 1);
+}
+.contact_wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 0 -15px;
+  flex-wrap: wrap;
+}
+.contact_card {
+  max-width: 370px;
+  &-title {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: $_18px;
+    text-align: center;
+    color: $_white;
+    text-transform: uppercase;
+    margin-bottom: 29px;
+    &--nav {
+      font-family: 'Raleway', sans-serif;
+      font-weight: 700;
+      font-size: $_18px;
+      text-align: center;
+      color: $_white;
+      text-transform: uppercase;
+      margin-bottom: 48px;
+    }
+  }
+}
+.contact_card-filling p {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  font-size: $_18px;
+  text-align: center;
+  color: $_white;
+}
+.contact_navigation-list {
+  display: flex;
+  justify-content: space-between;
+}
+.contact_navigation-list--item a {
+  display: block;
+  width: 39px;
+  line-height: 39px;
+  border: 1px $_grey solid;
+  margin-right: 5px;
+  text-align: center;
+  color: $_grey;
+  transition: 0.2s;
+}
+.contact_facebook {
+  &:hover {
+    transition: 0.2s;
+    transform: scale(1.2);
+    background-color: $_grey;
+    color: #3b5998;
+  }
+  &:active {
+    box-shadow: 0 0 10px $_grey;
+  }
+}
+.contact_twitter {
+  &:hover {
+    transition: 0.2s;
+    background-color: $_grey;
+    transform: scale(1.2);
+    color: #00acee;
+  }
+  &:active {
+    box-shadow: 0 0 10px $_grey;
+  }
+}
+.contact_linkedin {
+  &:hover {
+    transition: 0.2s;
+    background-color: $_grey;
+    transform: scale(1.2);
+    color: #0a66c2;
+  }
+  &:active {
+    box-shadow: 0 0 10px $_grey;
+  }
+}
