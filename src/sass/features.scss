@@ -1,5 +1,5 @@
 #features_section {
-  padding: 127px 0 45px;
+  padding: 64px 0 67px;
   width: 100%;
 }
 .features {
@@ -10,7 +10,12 @@
   }
   &_card {
     max-width: 360px;
-    margin: 0 15px;
+    margin: 0 15px 88px;
+    &:nth-child(4),
+    &:nth-child(5),
+    &:nth-child(6) {
+      margin-bottom: 0;
+    }
     &-img {
       display: flex;
       align-items: center;
@@ -33,7 +38,6 @@
       margin-bottom: 20px;
     }
     &-description {
-      margin-bottom: 88px;
       p {
         color: $_grey;
         font-weight: 400;

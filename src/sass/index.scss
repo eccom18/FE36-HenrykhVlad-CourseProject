@@ -3,7 +3,9 @@
 @import '../sass/variables.scss';
 @import '../sass/header.scss';
 @import '../sass/features.scss';
+@import '../sass/works.scss';
 @import '../sass/team.scss';
+@import '../sass/testimonials.scss';
 @import '../sass/dowload.scss';
 @import '../sass/contact.scss';
 @import '../sass/footer.scss';
@@ -16,12 +18,12 @@
   list-style: none;
 }
 html {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Raleway', 'Cardo', sans-serif;
 }
 .container {
   max-width: 1170px;
-  padding: 0 15px;
   z-index: 2;
+  padding: 0 15px;
   position: relative;
   margin: auto;
 }
