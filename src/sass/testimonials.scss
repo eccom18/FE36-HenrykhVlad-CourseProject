@@ -2,30 +2,14 @@
   width: 100%;
   padding: 57px 0;
 }
-// .testimonial_wrap {
-//   max-width: 1510px;
-//   margin: auto;
-// }
-.testimonial_slider {
-}
-.testimonial_slider-item {
-}
-.testimonial_slider-item--img {
-}
-.testimonial_slider-item--text {
-}
 .swiper-button-prev,
 .swiper-button-next {
   display: none;
 }
-// .swiper-pagination {
-//   width: 150px;
-//   height: 50px;
-//   line-height: 20px;
-//   font-size: $_13px;
-//   background-color: $_black;
-// }
-.swiper-pagination {
+.swiper-horizontal > .swiper-pagination-bullets,
+.swiper-pagination-bullets.swiper-pagination-horizontal,
+.swiper-pagination-custom,
+.swiper-pagination-fraction {
   bottom: -31px;
 }
 .swiper-pagination-clickable .swiper-pagination-bullet {

@@ -35,7 +35,7 @@
 97E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\hash\parcel-hash.linux-arm64-musl.node133041254986380472 0
 70E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\neo-async\concat.js133041246712913068 0
 99E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\runtime-js\src\helpers\node\js-loader.js133041254957714624 0
-42E:\TMS\FE36-HenrykhVlad-CourseProject\dist133050760797873711 1
+42E:\TMS\FE36-HenrykhVlad-CourseProject\dist133051378938037797 1
 70E:\TMS\FE36-HenrykhVlad-CourseProject\src\img\testimonials\3 test.avif133050659197852537 0
 87E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\css-tree\lib\lexer\generic-urange.js133041254993004983 0
 74E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\socket.io-adapter\.idea133041246704678769 1
@@ -71,7 +71,7 @@
 84E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\svgo\plugins\removeXMLProcInst.js133041255005634907 0
 88E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\constantinople\lib\binaryOperation.js133041246703628679 0
 62E:\TMS\FE36-HenrykhVlad-CourseProject\src\img\works\work3.avif133049523550124600 0
-65E:\TMS\FE36-HenrykhVlad-CourseProject\dist\ACTIVEBOX.3163cfb1.png133050746566673960 0
+65E:\TMS\FE36-HenrykhVlad-CourseProject\dist\ACTIVEBOX.3163cfb1.png133051377180198649 0
 67E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\timsort\index.js133041254895382594 0
 89E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\handlebars\dist\cjs\handlebars\helpers133041246729526068 1
 110E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@babel\types\lib\modifications\prependToMemberExpression.js133041246724081694 0
@@ -148,7 +148,7 @@
 75E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\pug-runtime\package.json133041246701455508 0
 72E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\readdirp\package.json133041246805510031 0
 71E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\serve-static\LICENSE133041246670481239 0
-52E:\TMS\FE36-HenrykhVlad-CourseProject\src\index.html133050746556953139 0
+52E:\TMS\FE36-HenrykhVlad-CourseProject\src\index.html133051378815696569 0
 115E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\socket.io-adapter\.idea\inspectionProfiles\profiles_settings.xml133041246697052693 0
 68E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\timsort\README.md133041254892225487 0
 82E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@babel\types\lib\clone\clone.js133041246712913068 0
@@ -210,7 +210,7 @@
 61E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\on-headers133041246691641450 1
 99E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts.map133041254938301428 0
 82E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\watcher\src\Debounce.hh133041254943953305 0
-64E:\TMS\FE36-HenrykhVlad-CourseProject\src\sass\testimonials.scss133050759441481343 0
+64E:\TMS\FE36-HenrykhVlad-CourseProject\src\sass\testimonials.scss133051378935739103 0
 61E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\iconv-lite133041246714324522 1
 80E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\domutils\lib\helpers.d.ts.map133041254921310208 0
 99E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\caniuse-lite\data\features\keyboardevent-code.js133041255140729953 0
@@ -673,7 +673,7 @@
 65E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\dom-serializer133041254926683782 1
 95E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\engine.io-client\node_modules\debug\Makefile133041246701065256 0
 67E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\character-parser133041246690913613 1
-61E:\TMS\FE36-HenrykhVlad-CourseProject\dist\index.b07a87f3.css133050760797663587 0
+61E:\TMS\FE36-HenrykhVlad-CourseProject\dist\index.b07a87f3.css133051378937797815 0
 92E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\serve-index\public\icons\page_refresh.png133041246720341497 0
 59E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\chokidar133041246807131049 1
 91E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\hash\parcel-hash.darwin-x64.node133041254944801537 0
@@ -1091,7 +1091,7 @@
 72E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\yaml\browser\types.js133041254980845418 0
 66E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\htmlparser2\lib133041254934764155 1
 68E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\merge-descriptors133041246691433832 1
-63E:\TMS\FE36-HenrykhVlad-CourseProject\dist\work 2.7d02a4da.avif133050746566793507 0
+63E:\TMS\FE36-HenrykhVlad-CourseProject\dist\work 2.7d02a4da.avif133051377177553720 0
 75E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\promise\polyfill-done.js133041246698353565 0
 63E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\hpkp\LICENSE133041246689609638 0
 77E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\side-channel\.eslintignore133041246670043355 0
@@ -1903,7 +1903,7 @@
 76E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\csso\lib\replace\Value.js133041254989402736 0
 64E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\uglify-js\bin133041246677977454 1
 68E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\uglify-js\LICENSE133041246670441213 0
-62E:\TMS\FE36-HenrykhVlad-CourseProject\dist\work7.2c4df0a3.avif133050746566836454 0
+62E:\TMS\FE36-HenrykhVlad-CourseProject\dist\work7.2c4df0a3.avif133051377177713728 0
 94E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\resolve\test\resolver\nested_symlinks\mylib133041246725943645 1
 70E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\uglify-js\README.md133041246720718379 0
 76E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\handlebars\lib\handlebars133041246729213553 1
@@ -2107,7 +2107,7 @@
 67E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\neo-async\all.js133041246677982459 0
 77E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\to-fast-properties\license133041246683662291 0
 61E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\json5\dist133041254934053679 1
-62E:\TMS\FE36-HenrykhVlad-CourseProject\dist\vladez.22ec9081.png133050746567062020 0
+62E:\TMS\FE36-HenrykhVlad-CourseProject\dist\vladez.22ec9081.png133051377180198649 0
 68E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\svgo\node_modules133041254862733291 1
 82E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\caniuse-lite\data\regions\MR.js133041255145788662 0
 71E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\side-channel\.github133041246703978904 1
@@ -2595,7 +2595,7 @@
 80E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\dont-sniff-mimetype\README.md133041246688717377 0
 77E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\socket.io-client\lib\on.js133041246690295005 0
 81E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\socket.io-client\lib\socket.js133041246709647332 0
-59E:\TMS\FE36-HenrykhVlad-CourseProject\dist\bg1.4d5c5fc7.png133050746569004123 0
+59E:\TMS\FE36-HenrykhVlad-CourseProject\dist\bg1.4d5c5fc7.png133051377181621756 0
 89E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\core\test\EntryRequest.test.js133041255029527043 0
 78E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\socket.io-client\lib\url.js133041246710234033 0
 94E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\socket.io-client\dist\socket.io.slim.dev.js133041246707640926 0
@@ -2804,7 +2804,7 @@
 83E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\resolve\test\resolver\cup.coffee133041246700895131 0
 86E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\server\plugins\session\unit.test.js133041246729213553 0
 68E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\nth-check\LICENSE133041254877388017 0
-60E:\TMS\FE36-HenrykhVlad-CourseProject\dist\icon.323200e9.png133050746566673960 0
+60E:\TMS\FE36-HenrykhVlad-CourseProject\dist\icon.323200e9.png133051377180981741 0
 83E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\server\plugins\security\index.js133041246727541037 0
 92E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\serve-index\node_modules\depd\lib\browser133041246697683120 1
 83E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\iconv-lite\encodings\internal.js133041246701385445 0
@@ -3071,7 +3071,7 @@
 87E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\bundler-default\package.json133041254925883250 0
 82E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\caniuse-lite\data\regions\IS.js133041255139601467 0
 95E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\serve-index\public\icons\page_white_find.png133041246722362864 0
-61E:\TMS\FE36-HenrykhVlad-CourseProject\dist\woods.ebc976d8.png133050746567001558 0
+61E:\TMS\FE36-HenrykhVlad-CourseProject\dist\woods.ebc976d8.png133051377180345930 0
 99E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\serve-index\public\icons\page_white_freehand.png133041246722519118 0
 94E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\serve-index\public\icons\page_white_get.png133041246722519118 0
 98E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\caniuse-lite\data\features\css3-cursors-grab.js133041255096346386 0
@@ -4082,7 +4082,7 @@
 82E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\runtime-browser-hmr\src133041254924772512 1
 74E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\negotiator\package.json133041246699744485 0
 83E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\lmdb\dependencies\lmdb\libraries133041254900256538 1
-65E:\TMS\FE36-HenrykhVlad-CourseProject\dist\index.b07a87f3.css.map133050760797843699 0
+65E:\TMS\FE36-HenrykhVlad-CourseProject\dist\index.b07a87f3.css.map133051378937957803 0
 85E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\caniuse-lite\data\features\ping.js133041255153451927 0
 71E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\negotiator\README.md133041246702975721 0
 69E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\diagnostic133041254928324868 1
@@ -4351,7 +4351,7 @@
 88E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@babel\types\lib\validators\generated133041246725019256 1
 96E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\core\src\public\MutableBundleGraph.js133041255046130286 0
 87E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\lmdb\dependencies\lz4\lib\lz4frame.h133041255053649217 0
-62E:\TMS\FE36-HenrykhVlad-CourseProject\dist\work6.c839d41f.avif133050746566818513 0
+62E:\TMS\FE36-HenrykhVlad-CourseProject\dist\work6.c839d41f.avif133051377177713728 0
 86E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@babel\types\lib\clone\cloneNode.js133041246714324522 0
 84E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\lmdb\dependencies\lz4\lib\lz4hc.c133041254966207710 0
 86E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\lmdb\dependencies\lz4\lib\README.md133041255072673382 0
@@ -4526,14 +4526,14 @@
 88E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\caniuse-lite\data\features\portals.js133041255154135185 0
 78E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\is-core-module\CHANGELOG.md133041246701155328 0
 75E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\is-core-module\core.json133041246697062704 0
-62E:\TMS\FE36-HenrykhVlad-CourseProject\dist\work4.54fcc63c.avif133050746566813520 0
+62E:\TMS\FE36-HenrykhVlad-CourseProject\dist\work4.54fcc63c.avif133051377177633750 0
 79E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\is-core-module\test\index.js133041246693097683 0
 74E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\hide-powered-by\LICENSE133041246683832400 0
 74E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\is-binary-path\index.js133041246805510031 0
 78E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\is-binary-path\package.json133041246804949592 0
 96E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\css-select\lib\pseudo-selectors\subselects.js133041254921940631 0
 75E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\is-binary-path\readme.md133041246806210430 0
-63E:\TMS\FE36-HenrykhVlad-CourseProject\dist\5 test.0eb6deb4.avif133050746567016566 0
+63E:\TMS\FE36-HenrykhVlad-CourseProject\dist\5 test.0eb6deb4.avif133051377177793730 0
 76E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\is-arrayish\.editorconfig133041254902923311 0
 81E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\css-what\lib\es\types.d.ts.map133041254934173763 0
 76E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\is-arrayish\.istanbul.yml133041254900396642 0
@@ -5460,7 +5460,7 @@
 70E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\constantinople\test133041246709217121 1
 88E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\constantinople\src\binaryOperation.ts133041246707640926 0
 78E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\constantinople\src\index.ts133041246708346728 0
-62E:\TMS\FE36-HenrykhVlad-CourseProject\dist\little.76f8d8bc.png133050746567102063 0
+62E:\TMS\FE36-HenrykhVlad-CourseProject\dist\little.76f8d8bc.png133051377180345930 0
 80E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\constantinople\lib\index.d.ts133041246704858909 0
 78E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\constantinople\lib\index.js133041246706009677 0
 91E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@jridgewell\trace-mapping\src\resolve.ts133041254927644432 0
@@ -5486,7 +5486,7 @@
 61E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\concat\bin133041247495087285 1
 66E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\concat\index.ts133041247495197362 0
 71E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\concat\tsconfig.json133041247496117966 0
-63E:\TMS\FE36-HenrykhVlad-CourseProject\dist\work 1.12e200eb.avif133050746567261079 0
+63E:\TMS\FE36-HenrykhVlad-CourseProject\dist\work 1.12e200eb.avif133051377177873732 0
 82E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\caniuse-lite\data\regions\SY.js133041255163613892 0
 68E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\concat\test\empty133041247495417520 0
 69E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\concat\test\folder133041247495807768 1
@@ -6537,7 +6537,7 @@
 63E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\hash133041255005429777 1
 65E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\logger133041254924472320 1
 77E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\node-resolver-core133041255033604742 1
-60E:\TMS\FE36-HenrykhVlad-CourseProject\dist\index.739bf03c.js133050748252536698 0
+60E:\TMS\FE36-HenrykhVlad-CourseProject\dist\index.739bf03c.js133051377181621756 0
 77E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\optimizer-htmlnano133041254921870584 1
 85E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\packager-js\lib\helpers.js133041254934113719 0
 74E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\optimizer-image133041255058302893 1
@@ -6709,7 +6709,7 @@
 80E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\transformer-image\src133041254923661782 1
 93E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\transformer-image\src\loadSharp.js133041254919043696 0
 100E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\transformer-image\lib\ImageTransformer.js133041254904879628 0
-63E:\TMS\FE36-HenrykhVlad-CourseProject\dist\3 test.05fae693.avif133050746566901484 0
+63E:\TMS\FE36-HenrykhVlad-CourseProject\dist\3 test.05fae693.avif133051377177793730 0
 93E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\transformer-image\lib\loadSharp.js133041254915276117 0
 88E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\transformer-html\package.json133041254927434280 0
 79E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\transformer-html\src133041254925162791 1
@@ -6827,7 +6827,7 @@
 98E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@jridgewell\gen-mapping\dist\gen-mapping.umd.js133041254875877017 0
 84E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\packager-raw\package.json133041254921145096 0
 90E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\packager-raw\lib\RawPackager.js133041254911134750 0
-62E:\TMS\FE36-HenrykhVlad-CourseProject\dist\work5.7a094dd2.avif133050746566886476 0
+62E:\TMS\FE36-HenrykhVlad-CourseProject\dist\work5.7a094dd2.avif133051377177553720 0
 74E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\packager-js\src133041254951755474 1
 89E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\packager-js\src\.eslintrc.json133041254952435950 0
 89E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\@parcel\packager-js\src\dev-prelude.js133041254922771182 0
@@ -7350,12 +7350,12 @@
 66E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\.bin\terser.cmd133041255176367887 0
 64E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\.bin\uglifyjs133041246731845435 0
 68E:\TMS\FE36-HenrykhVlad-CourseProject\node_modules\.bin\uglifyjs.ps1133041246731855446 0
-63E:\TMS\FE36-HenrykhVlad-CourseProject\dist\1 test.0f3989b8.avif133050746566956526 0
-63E:\TMS\FE36-HenrykhVlad-CourseProject\dist\2 test.32a62853.avif133050746566951517 0
-63E:\TMS\FE36-HenrykhVlad-CourseProject\dist\4 test.25d7d636.avif133050746567777229 0
-59E:\TMS\FE36-HenrykhVlad-CourseProject\dist\BOX.2cd611dc.png133050746566669045 0
-64E:\TMS\FE36-HenrykhVlad-CourseProject\dist\index.739bf03c.js.map133050748252807367 0
-53E:\TMS\FE36-HenrykhVlad-CourseProject\dist\index.html133050746569442315 0
-60E:\TMS\FE36-HenrykhVlad-CourseProject\dist\reed.dc144953.png133050746567082049 0
-62E:\TMS\FE36-HenrykhVlad-CourseProject\dist\work3.d8f6b2d9.avif133050746566793507 0
-62E:\TMS\FE36-HenrykhVlad-CourseProject\dist\work8.d7ad6791.avif133050746566906493 0
+63E:\TMS\FE36-HenrykhVlad-CourseProject\dist\1 test.0f3989b8.avif133051377177873732 0
+63E:\TMS\FE36-HenrykhVlad-CourseProject\dist\2 test.32a62853.avif133051377177793730 0
+63E:\TMS\FE36-HenrykhVlad-CourseProject\dist\4 test.25d7d636.avif133051377178273741 0
+59E:\TMS\FE36-HenrykhVlad-CourseProject\dist\BOX.2cd611dc.png133051377180198649 0
+64E:\TMS\FE36-HenrykhVlad-CourseProject\dist\index.739bf03c.js.map133051377181781748 0
+53E:\TMS\FE36-HenrykhVlad-CourseProject\dist\index.html133051377181381750 0
+60E:\TMS\FE36-HenrykhVlad-CourseProject\dist\reed.dc144953.png133051377180198649 0
+62E:\TMS\FE36-HenrykhVlad-CourseProject\dist\work3.d8f6b2d9.avif133051377177633750 0
+62E:\TMS\FE36-HenrykhVlad-CourseProject\dist\work8.d7ad6791.avif133051377177713728 0
