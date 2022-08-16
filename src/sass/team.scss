@@ -22,27 +22,26 @@
       object-fit: cover;
     }
   }
+  &-post {
+    margin-bottom: 18px;
+    span {
+      font-family: 'Raleway', sans-serif;
+      font-size: $_18px;
+      line-height: 21px;
+      font-weight: 400;
+      color: $_red;
+      text-transform: uppercase;
+      margin: 5px 0 18px;
+    }
+  }
+
   &-initials {
     font-family: 'Raleway', sans-serif;
+    line-height: 28px;
     font-size: $_24px;
     font-weight: 700;
     color: $_black;
-    &--founder::after {
-      content: 'founder, ceo';
-      @include initials;
-    }
-    &--developer::after {
-      content: 'co-founder, developer';
-      @include initials;
-    }
-    &--scientist::after {
-      content: 'data scientist';
-      @include initials;
-    }
-    &--designer::after {
-      content: 'ui designer';
-      @include initials;
-    }
+    margin-bottom: 6px;
   }
   &-description {
     margin-bottom: 38px;
